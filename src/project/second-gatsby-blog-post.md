@@ -1,15 +1,15 @@
 ---
-title: "Second Gatsby Blog Post"
-date: "2020-01-19"
-featured: "../images/second-post.png"
+title: "TWFG - EVO AMS"
+# date: "2020-01-19"
+featured: "../images/evo.png"
 ---
 
-Seprehenderit accusamus, explicabo eligendi necessitatibus soluta!
+Evolution Agency Management Systems.
 
-## Ipsam mollitia
+## (eVo)
 
-alias temporibus dictorem ipsum dolor sit amet consectetur adipisicing elit.
+Is a generic agency management system for insurance businesses. An app with quoting, claims and payment options, with the purpose to let clients can access their policies whenever they want to, build with a combination on the frontend of React and Ionic I was able to make the app responsive for every device and connect with company RESTfull API at the same time I was building the login component and profile tabs for every service. 
 
-## Excepturi maxime
+## Deploy
 
-omnis earum nobis architecto, quia officiis aperiam voluptate quaerat.
+In less than one week the app was able on App Store and Google Play.

@@ -1,9 +1,12 @@
 .site-footer {
   background-color: #000;
-  color: #515151;
+  color: #666;
 }
 .container {
   margin: 0 auto;
-  max-width: 750px;
+  max-width: 1280px;
   padding: 1rem;
+  p{
+    font-size: 1.25rem;
+  }
 }

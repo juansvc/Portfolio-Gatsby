@@ -11,12 +11,12 @@ const Blog = () => {
   const data = useStaticQuery(
     graphql`
       query {
-        allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+        allMarkdownRemark(sort: { fields: frontmatter___title, order: DESC }) {
           edges {
             node {
               frontmatter {
                 title
-                date(formatString: "DD MMMM, YYYY")
+                # date(formatString: "DD MMMM, YYYY")
                 featured {
                   childImageSharp {
                     fluid(maxWidth: 750) {
@@ -54,7 +54,7 @@ const Blog = () => {
               </h2>
               <div className={blogStyles.meta}>
                 <span>
-                  Posted on {edge.node.frontmatter.date} <span> / </span>{" "}
+                  {/* Posted on {edge.node.frontmatter.date} <span> / </span>{" "} */}
                   {edge.node.timeToRead} min read
                 </span>
               </div>

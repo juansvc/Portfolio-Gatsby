@@ -12,7 +12,7 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       frontmatter {
         title
-        date(formatString: "DD MMMM, YYYY")
+        # date(formatString: "DD MMMM, YYYY")
         featured {
           childImageSharp {
             fluid(maxWidth: 750) {
@@ -34,8 +34,8 @@ const BlogPost = props => {
       <div className={postStyles.content}>
         <h1>{props.data.markdownRemark.frontmatter.title}</h1>
         <span className={postStyles.meta}>
-          Posted on {props.data.markdownRemark.frontmatter.date}{" "}
-          <span> / </span> {props.data.markdownRemark.timeToRead} min read
+          {/* Posted on {props.data.markdownRemark.frontmatter.date}{" "} */}
+          {props.data.markdownRemark.timeToRead} min read
         </span>
 
         {props.data.markdownRemark.frontmatter.featured && (

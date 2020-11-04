@@ -1,20 +1,20 @@
 ---
-title: "First Gatsby Blog Post"
-date: "2020-01-18"
-featured: "../images/first-post.png"
+title: "Nabors - RigCloud"
+# date: "2020-01-18"
+featured: "../images/rg1.png"
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
+The right information at the right time eliminates the need to search through different sources of data for the best path forward.
 
-## Excepturi maxime
+## RigCloud
 
-reprehenderit accusamus, explicabo eligendi necessitatibus soluta!
+LiveOps is an web and mobile application to streaming analytics from diferent operations on the drilling industry and enhance remote control and deliver in real-time directionals and infrastructure in a transparency process, build with a combination on the frontend of React, Angular and SCSS I was able to build the mayority of drilling widgets and components ASAP for the company. 
 
-![gatsby tutorial](../images/gatsby-tutorial.png)
+![gatsby tutorial](../images/rg.png)
 
-Ipsam mollitia alias temporibus dicta
+Platfoms for test, deploy and build
 
-1. omnis earum nobis
-2. architecto, quia
-3. officiis aperiam
-4. voluptate quaerat
+1. KANBAN
+2. Jenkins
+3. Visual Studio Shelvesets/Changesets
+4. Azure

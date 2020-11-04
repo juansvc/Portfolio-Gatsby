@@ -20,12 +20,12 @@ const Header = () => {
     <header className={headerStyles.header}>
       <div className={headerStyles.overlay}></div>
       <div className={headerStyles.heroContent}>
-        <p className={headerStyles.brand}>
+        <h1 className={headerStyles.brand}>
           <Link to="/">{data.site.siteMetadata.title}</Link>
-        </p>
-        <p className={headerStyles.description}>
+        </h1>
+        {/* <p className={headerStyles.description}>
           {data.site.siteMetadata.description}
-        </p>
+        </p> */}
       </div>
       <nav className={headerStyles.navContainer}>
         <ul className={headerStyles.navList}>
@@ -36,7 +36,7 @@ const Header = () => {
           </li>
           <li>
             <Link to="/projects/" activeClassName={headerStyles.activeMenuItem}>
-              Projects
+              Last Work
             </Link>
           </li>
           <li>

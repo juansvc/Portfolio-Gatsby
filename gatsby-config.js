@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Juan Sebastian Vivanco",
-    description: "I develop with Javascript, React and Vuejs",
+    title: "Juan Vivanco",
+    description: "Creative Frontend Developer and Designer",
     author: "Juan Vivanco",
   },
   plugins: [
