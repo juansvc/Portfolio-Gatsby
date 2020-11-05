@@ -19,3 +19,20 @@ a {
   color: $secondaryColor;
   text-decoration: none;
 }
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #fff #A1C91C;;
+}
+/* Chrome/Edge/Safari */
+*::-webkit-scrollbar {
+  width: 12px !important;
+}
+*::-webkit-scrollbar-track {
+  background: #A1C91C !important;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #fff !important;
+  /* border-radius: 20px !important; */
+  border: 3px solid #A1C91C !important;
+}

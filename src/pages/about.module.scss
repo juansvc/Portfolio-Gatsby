@@ -77,13 +77,22 @@
         padding-top:65vh
     }
 
-    .about-grid .tools, .about-grid ul {
-        grid-template-columns: 1fr/1fr;
-        grid-gap:1rem
+    .about-module ul{
+        padding: 0;
     }
 
-    .about-grid .tools ul {
-        display:block
+    .about-grid{
+        text-align: center;
+        padding: 0;
+        width: 99.7vw;
+        .tools, ul {
+            grid-template-columns:repeat(1, 1fr);
+            grid-gap:1rem;
+            padding: 0;
+        }
+        .tools ul {
+            display:block;
+        }
     }
 
     .about-contact {

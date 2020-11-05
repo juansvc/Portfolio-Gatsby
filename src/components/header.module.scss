@@ -91,3 +91,9 @@ a.active-menu-item{
   opacity: 1;
   text-decoration: underline;
 }
+
+@media screen and (max-width: 568px) {
+  .hero-content {
+    top: 18%;
+  }
+}
