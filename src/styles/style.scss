@@ -22,17 +22,17 @@ a {
 /* Firefox */
 * {
   scrollbar-width: thin;
-  scrollbar-color: #fff #A1C91C;;
+  scrollbar-color: #A1C91C #fff;
 }
 /* Chrome/Edge/Safari */
 *::-webkit-scrollbar {
-  width: 12px !important;
+  width: 12px;
 }
 *::-webkit-scrollbar-track {
-  background: #A1C91C !important;
+  background: #fff;
 }
 *::-webkit-scrollbar-thumb {
-  background-color: #fff !important;
-  /* border-radius: 20px !important; */
-  border: 3px solid #A1C91C !important;
+  background-color: #A1C91C;
+  border-radius: 5rem;
+  border: 3px solid #fff;
 }
