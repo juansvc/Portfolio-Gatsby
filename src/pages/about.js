@@ -8,7 +8,7 @@ const About = () => {
     <Layout>
       <Metadata title="About" description="Get to know me" />
       <div className={aboutStyles.aboutGrid}>
-        <h2> 4 + Years of Experience </h2>
+        <h2> 6 + Years of Experience </h2>
         <h2> Main Skills </h2>
         <div className={aboutStyles.columns}>
           <ul>
@@ -39,32 +39,33 @@ const About = () => {
 
           <ul>
 
-            <li> JavaScript / +4 </li>
-            <li>CSS / +4 </li>
-            <li>HTML / +4 </li>
-            <li>SASS / +4 </li>
-            <li>React / +4 </li>
+            <li> JavaScript / +5 </li>
+            <li>CSS / +5 </li>
+            <li>HTML / +5 </li>
+            <li>SASS / +5 </li>
+            <li>React / +5 </li>
+            <li>Sails / +1 </li>
           </ul>
           <ul>
 
-            <li> React Native / +2 </li>
-            <li>Vue.js / +3 </li>
-            <li>Webpack / +4 </li>
-            <li>Node.js / +4 </li>
-            <li>Angular / ~3 </li>
+            <li> React Native / +3 </li>
+            <li>Vue.js / +4 </li>
+            <li>Webpack / +5 </li>
+            <li>Node.js / +5 </li>
+            <li>Angular / ~5 </li>
           </ul>
           <ul>
 
-            <li> Ionic / ~2 </li>
-            <li>PHP / +4 </li>
-            <li>MongoDB / +4 </li>
-            <li>Ruby on Rails / +4 </li>
-            <li>WordPress / +4 </li>
+            <li> Ionic / ~5 </li>
+            <li>PHP / +5 </li>
+            <li>MongoDB / +5 </li>
+            <li>Ruby on Rails / +5 </li>
+            <li>WordPress / +5 </li>
           </ul>
           <ul>
           
-          <li>Woocommerce / +4 </li>
-            <li> Magento / +2 </li>
+          <li>Woocommerce / +5 </li>
+            <li> Magento / +3 </li>
             <li>Adobe Illustrator/Adobe XD </li>
             <li>Restful APIS/AWS</li> <li> Scrum/Kanban </li>
           </ul>
