@@ -102,8 +102,7 @@ const About = () => {
 
               <span className="-comment">Fluent C1</span>
               <br />
-              <i className="-purple">es - ES </i> Español,
-              <br /> <i className="-purple"> en - US </i> English
+              <i className="-purple"> en - US </i> English
             </li>
 
             <li>
