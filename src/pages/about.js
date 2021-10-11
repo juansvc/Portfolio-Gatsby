@@ -16,10 +16,10 @@ const About = () => {
               Frontend Development, <br /> UX / UI design
             </li>
             <li>
-              JavaScript, CSS, HTML <br /> React, Vue, SASS
+              React, JavaScript, Typescript, Sass <br /> Storybook, Vue, Html, Css, Less
             </li>
             <li>
-              Adobe XD, <br /> Illustrator
+              Adobe XD, Figma <br /> Sketch
             </li>
             <li>
             Creativity, <br /> Think Different
@@ -38,35 +38,33 @@ const About = () => {
         <div className={aboutStyles.tools}>
 
           <ul>
-
-            <li> JavaScript / +5 </li>
-            <li>CSS / +5 </li>
-            <li>HTML / +5 </li>
-            <li>SASS / +5 </li>
             <li>React / +5 </li>
-            <li>Sails / +1 </li>
+            <li>JavaScript / +5 </li>
+            <li>TypeScript / +5 </li>
+            <li>Css / +5 </li>
+            <li>Html / +5 </li>
+            <li>Sass / +5 </li>
           </ul>
           <ul>
-
-            <li> React Native / +3 </li>
-            <li>Vue.js / +4 </li>
-            <li>Webpack / +5 </li>
             <li>Node.js / +5 </li>
-            <li>Angular / ~5 </li>
+            <li>Vue.js / +4 </li>
+            <li>React Native / +3 </li>
+            <li>Webpack / +5 </li>
+            <li>Less / ~5 </li>
           </ul>
           <ul>
 
-            <li> Ionic / ~5 </li>
-            <li>PHP / +5 </li>
-            <li>MongoDB / +5 </li>
-            <li>Ruby on Rails / +5 </li>
-            <li>WordPress / +5 </li>
+            <li>Jest / ~4 </li>
+            <li>Storybook / +4 </li>
+            <li>MongoDB / +4 </li>
+            <li>Ruby on Rails / +3 </li>
+            <li>WordPress / +3 </li>
           </ul>
           <ul>
           
-          <li>Woocommerce / +5 </li>
-            <li> Magento / +3 </li>
-            <li>Adobe Illustrator/Adobe XD </li>
+            <li>Angular / +3 </li>
+            <li>GraphQL / +3 </li>
+            <li>Adobe XD/Figma/Sketch </li>
             <li>Restful APIS/AWS</li> <li> Scrum/Kanban </li>
           </ul>
         </div>
@@ -74,30 +72,24 @@ const About = () => {
         <div className="columns experience">
 
           <ul>
-
             <li>
-
-              <b className="-purple"> Senior Frontend Developer </b>
-              <br /> @ TeamQ <br /> 2020 - Now
+              <b className="-purple"> Senior React Developer </b>
+              <br /> @ Alation <br /> 2021 - Now
             </li>
             <li>
-              <b className="-purple">Senior Frontend Developer</b> <br /> @
-              ISA GmbH <br /> 2020 - Now
+              <b className="-purple"> Senior Frontend Developer </b>
+              <br /> @ ISA GmbH <br /> 2020 - 2021
             </li>
             <li>
               <b className="-purple">Senior Software Engineer </b>
               <br /> @ Webcreek <br /> 2019 - 2020
             </li>
             <li>
-              <b className="-purple">Head of Projects &amp; Senior Full Stack Developer</b> <br /> @
-              TFactura <br /> 2018 - 2019
+              <b className="-purple">Head of Projects &amp; Lead Front End Engineer</b> <br /> @
+              Toners IT Solutions <br /> 2018 - 2019
             </li>
             <li>
-              <b className="-purple">Frontend Developer</b> <br /> @ EdiLoja
-              <br /> 2017 - 2018
-            </li>
-            <li>
-              <b className="-purple">Freelancer</b> <br /> Senior Frontend Developer <br /> 2017 - Now
+              <b className="-purple">Freelancer</b> <br /> Senior Frontend Developer <br /> 2016 - 2018
             </li>
           </ul>
         </div>
@@ -108,13 +100,18 @@ const About = () => {
 
             <li>
 
-              <span className="-comment">Fluent</span>
+              <span className="-comment">Fluent C1</span>
               <br />
               <i className="-purple">es - ES </i> Español,
               <br /> <i className="-purple"> en - US </i> English
             </li>
+
             <li>
-              <span className="-comment">Basic </span><br />
+              <span className="-comment">Native C2</span><br />
+              <i className="-purple">es - ES </i> Español
+            </li>
+            <li>
+              <span className="-comment">Basic A2</span><br />
               <i className="-purple">fr - FR </i> French
             </li>
           </ul>
@@ -124,8 +121,8 @@ const About = () => {
 
           <ul>
 
-            <li> Best Daddy </li> <li> Excercice </li>
-            <li> Video Games </li> <li> Self - Learning </li>
+            <li> Cryptocurrencies </li> <li> Excercice </li>
+            <li> Travel </li> <li> Self - Learning </li>
           </ul>
         </div>
       </div>
