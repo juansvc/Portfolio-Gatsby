@@ -16,19 +16,13 @@ const About = () => {
               Frontend Development, <br /> UX / UI design
             </li>
             <li>
-              React, JavaScript, Typescript, Sass <br /> Storybook, Vue, Html, Css, Less
+              Master's Degree, <br /> Web Management and Engineering
             </li>
             <li>
-              Adobe XD, Figma <br /> Sketch
+              Responsive Design, <br /> Scrum Master
             </li>
             <li>
-            Creativity, <br /> Think Different
-            </li>
-            <li>
-            Responsive Design, <br /> Version Control
-            </li>
-            <li>
-            Testing , <br /> Problem Solving
+              Creativity, <br /> Think Different
             </li>
           </ul>
         </div>
@@ -38,43 +32,43 @@ const About = () => {
         <div className={aboutStyles.tools}>
 
           <ul>
-            <li>React / +5 </li>
+            <li>ReactJS / +5 </li>
             <li>JavaScript / +5 </li>
             <li>TypeScript / +5 </li>
             <li>Css / +5 </li>
             <li>Html / +5 </li>
+          </ul>
+          <ul>
             <li>Sass / +5 </li>
-          </ul>
-          <ul>
-            <li>Node.js / +5 </li>
-            <li>Vue.js / +4 </li>
-            <li>React Native / +3 </li>
-            <li>Webpack / +5 </li>
             <li>Less / ~5 </li>
+            <li>Material UI / +5 </li>
+            <li>Tailwind CSS / +4 </li>
+            <li>React Native / +4 </li>
           </ul>
           <ul>
-
-            <li>Jest / ~4 </li>
             <li>Storybook / +4 </li>
-            <li>MongoDB / +4 </li>
-            <li>Ruby on Rails / +3 </li>
-            <li>WordPress / +3 </li>
+            <li>Jest / ~4 </li>
+            <li>React Testing Library / +4 </li>
+            <li>GraphQL / +3 </li>
+            <li>Webpack / +5 </li>
           </ul>
           <ul>
-          
-            <li>Angular / +3 </li>
-            <li>GraphQL / +3 </li>
-            <li>Adobe XD/Figma/Sketch </li>
-            <li>Restful APIS/AWS</li> <li> Scrum/Kanban </li>
+            <li>Adobe XD / Figma </li>
+            <li>Restful APIs / AWS</li> 
+            <li>Scrum / Kanban</li>
           </ul>
         </div>
-        <h2>Experience</h2>
+        <h2>Last Experience</h2>
         <div className="columns experience">
 
           <ul>
             <li>
               <b className="-purple"> Senior React Developer </b>
-              <br /> @ Alation <br /> 2021 - Now
+              <br /> @ Crehana <br /> 2021 - 2021
+            </li>
+            <li>
+              <b className="-purple"> Senior React Developer </b>
+              <br /> @ Alation <br /> 2021 - 2021
             </li>
             <li>
               <b className="-purple"> Senior Frontend Developer </b>
@@ -89,7 +83,8 @@ const About = () => {
               Toners IT Solutions <br /> 2018 - 2019
             </li>
             <li>
-              <b className="-purple">Freelancer</b> <br /> Senior Frontend Developer <br /> 2016 - 2018
+              <b className="-purple">Freelancer</b> <br /> @
+              Lexxus <br /> 2015 - 2018
             </li>
           </ul>
         </div>

@@ -1,15 +1,20 @@
 ---
-title: "Lloyd's Register - OFS PRO"
-# date: "2020-01-19"
-featured: "../images/op.jpg"
+title: "Nabors - RigCloud"
+# date: "2020-01-18"
+featured: "../images/rg1.png"
 ---
 
-Optimized Field System PRO.
+The right information at the right time eliminates the need to search through different sources of data for the best path forward.
 
-## (eVo)
+## RigCloud
 
-Is A Service Enterprise Solution For Oilfield, Maintenance, Construction And Other Industrial Field Operations that automates the proposal, pricing, and field ticketing process all the way through invoice generation. An app that collects data from field operations in real-time and makes it available to decision makers, build with a combination on the frontend/backend of React/Node.js I was able to make the app functional and user-friendly. 
+LiveOps is an web and mobile application to streaming analytics from diferent operations on the drilling industry and enhance remote control and deliver in real-time directionals and infrastructure in a transparency process, build with a combination on the frontend of React, Angular and SCSS I was able to build the mayority of drilling widgets and components ASAP for the company. 
 
-## Kanban
+![gatsby tutorial](../images/rg.png)
 
-Every time client need a new feature, me and the team were able to bring it to production ASAP.
+Platfoms for test, deploy and build
+
+1. KANBAN
+2. Jenkins
+3. Visual Studio Shelvesets/Changesets
+4. Azure

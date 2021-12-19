@@ -13,7 +13,7 @@ const Contact = () => {
       <h1 className={indexStyles.title}>You can find me on<br/><br/> <FaInstagram /> via <a href="https://www.instagram.com/juansvivanco/" target="_blank">@juansvivanco</a>
       <br/> <FaGithub /> via <a href="https://github.com/juansvc" target="_blank">@juansvc</a>
       <br/> <FaLinkedin /> via <a href="https://www.linkedin.com/in/juansvivanco/" target="_blank">@juansvivanco</a>
-      <br/> <FaRegAddressBook /> via <a href="https://bit.ly/2YHwLKN" target="_blank">CV PDF</a></h1>
+      <br/> <FaRegAddressBook /> via <a href="https://www.icloud.com/iclouddrive/07TAQFKa_M_JPCmpDzTHwH0Sg#Juan_Vivanco_CV" target="_blank">CV PDF</a></h1>
     </Layout>
   )
 }

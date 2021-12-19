@@ -1,20 +1,14 @@
 ---
-title: "Nabors - RigCloud"
-# date: "2020-01-18"
-featured: "../images/rg1.png"
+title: "Alation - Fabric"
+# date: "2021-10-19"
+featured: "../images/alation.png"
 ---
 
-The right information at the right time eliminates the need to search through different sources of data for the best path forward.
+Fabric Design System.
 
-## RigCloud
+## Fabric
 
-LiveOps is an web and mobile application to streaming analytics from diferent operations on the drilling industry and enhance remote control and deliver in real-time directionals and infrastructure in a transparency process, build with a combination on the frontend of React, Angular and SCSS I was able to build the mayority of drilling widgets and components ASAP for the company. 
+Fabric is Alation's design system, built with data-heavy product architecture in mind. Fabric includes all of the guidelines and reusable components that are used to develop Alation's data catalog and Compose, its SQL query editor. 
 
-![gatsby tutorial](../images/rg.png)
-
-Platfoms for test, deploy and build
-
-1. KANBAN
-2. Jenkins
-3. Visual Studio Shelvesets/Changesets
-4. Azure
+## Refactor and features
+React, ES6(Javascript), Typescript, CSS in JS, Storybooks, Jest/Karma, Material UI
