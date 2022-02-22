@@ -23,9 +23,6 @@ const Header = () => {
         <h1 className={headerStyles.brand}>
           <Link to="/">{data.site.siteMetadata.title}</Link>
         </h1>
-        {/* <p className={headerStyles.description}>
-          {data.site.siteMetadata.description}
-        </p> */}
       </div>
       <nav className={headerStyles.navContainer}>
         <ul className={headerStyles.navList}>

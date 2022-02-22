@@ -1,5 +1,5 @@
 ---
-title: "TWFG - EVO AMS"
+title: "EVO AMS - TWFG"
 # date: "2020-01-19"
 featured: "../images/evo.png"
 ---

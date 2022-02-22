@@ -17,22 +17,27 @@ h3 {
 }
 a {
   color: $secondaryColor;
-  text-decoration: none;
+  &:link, &:visited, &:active {
+    text-decoration: none;
+  }
+  &:hover {
+    text-decoration: underline;
+  }
 }
 /* Firefox */
 * {
   scrollbar-width: thin;
-  scrollbar-color: #A1C91C #fff;
+  scrollbar-color: $secondaryColor #000;
 }
 /* Chrome/Edge/Safari */
 *::-webkit-scrollbar {
   width: 12px;
 }
 *::-webkit-scrollbar-track {
-  background: #fff;
+  background: #000;
 }
 *::-webkit-scrollbar-thumb {
-  background-color: #A1C91C;
+  background-color: $secondaryColor;
   border-radius: 5rem;
-  border: 3px solid #fff;
+  border: 3px solid #000;
 }

@@ -1,3 +1,11 @@
+@import '../styles/variables';
+
+
+.jobs {
+    color: $secondaryColor;
+    margin-bottom: 2rem;
+}
+
 .about-grid {
     padding: 3rem 2rem 0 0;
     margin-right: -25vw;
@@ -9,7 +17,7 @@
 }
 
 .about-grid h2 span {
-    font-weight:400
+    font-weight:100
 }
 
 .columns {

@@ -1,5 +1,5 @@
 ---
-title: "Alation - Fabric"
+title: "Alation Fabric Design System"
 # date: "2021-10-19"
 featured: "../images/alation.png"
 ---

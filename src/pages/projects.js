@@ -11,7 +11,7 @@ const Blog = () => {
   const data = useStaticQuery(
     graphql`
       query {
-        allMarkdownRemark(sort: { fields: frontmatter___title, order: DESC }) {
+        allMarkdownRemark(sort: { fields: frontmatter___title, order: ASC }) {
           edges {
             node {
               frontmatter {

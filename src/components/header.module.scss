@@ -1,7 +1,7 @@
 .header {
   position: relative;
   height: 326px;
-  text-shadow: 0 6px 6px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 6px 6px rgba(0, 0, 0, 0.8);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,7 +20,7 @@
 .brand {
   margin: 0;
   padding: 0 0 10px;
-  font-size: 3.5rem;
+  font-size: 4.5rem;
   font-weight: 300;
   line-height: 1.2;
   letter-spacing: 5.5px;
@@ -47,7 +47,7 @@
   left: 0;
   right: 0;
   background: rgba(255, 255, 255, 0.1);
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .nav-list {

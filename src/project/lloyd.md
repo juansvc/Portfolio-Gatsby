@@ -1,5 +1,5 @@
 ---
-title: "Lloyd's Register - OFS PRO"
+title: "OFS PRO - Lloyd's Register"
 # date: "2020-01-19"
 featured: "../images/op.jpg"
 ---

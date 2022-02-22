@@ -1,5 +1,5 @@
 ---
-title: "Nabors - RigCloud"
+title: "RigCloud - Nabors"
 # date: "2020-01-18"
 featured: "../images/rg1.png"
 ---
@@ -12,9 +12,3 @@ LiveOps is an web and mobile application to streaming analytics from diferent op
 
 ![gatsby tutorial](../images/rg.png)
 
-Platfoms for test, deploy and build
-
-1. KANBAN
-2. Jenkins
-3. Visual Studio Shelvesets/Changesets
-4. Azure

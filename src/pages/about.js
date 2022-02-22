@@ -63,28 +63,33 @@ const About = () => {
 
           <ul>
             <li>
-              <b className="-purple"> Senior React Developer </b>
-              <br /> @ Crehana <br /> 2021 - 2021
+              <div className="jobs"> Senior React Developer </div>
+               - Crehana - <br /> 2022 / now
             </li>
             <li>
-              <b className="-purple"> Senior React Developer </b>
-              <br /> @ Alation <br /> 2021 - 2021
+              <div className="jobs"> Senior React Developer </div>
+              - Alation - <br /> 2021 / 2021
             </li>
             <li>
-              <b className="-purple"> Senior Frontend Developer </b>
-              <br /> @ ISA GmbH <br /> 2020 - 2021
+              <div className="jobs"> Lead Front End Engineer </div>
+              - ISA GmbH - <br /> 2020 / 2021
             </li>
             <li>
-              <b className="-purple">Senior Software Engineer </b>
-              <br /> @ Webcreek <br /> 2019 - 2020
+              <div className="jobs">Senior Front End Developer </div>
+              - Nabors - <br /> 2019 / 2020
             </li>
             <li>
-              <b className="-purple">Head of Projects &amp; Lead Front End Engineer</b> <br /> @
-              Toners IT Solutions <br /> 2018 - 2019
+              <div className="jobs">Senior Software Engineer </div>
+              - Webcreek - <br /> 2019  2020
             </li>
             <li>
-              <b className="-purple">Freelancer</b> <br /> @
-              Lexxus <br /> 2015 - 2018
+              <div className="jobs">Head of Projects &amp; Lead Front End Engineer</div> -
+              Tfactura - <br /> 2018  2019
+            </li>
+            <li>
+              <div className="jobs">
+Semi-Senior Front End Developer</div>
+             - Lexxus - <br /> 2015 / 2018
             </li>
           </ul>
         </div>

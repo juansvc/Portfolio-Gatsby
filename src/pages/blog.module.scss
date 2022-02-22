@@ -43,14 +43,16 @@
   text-align: center;
   padding: 20px 0;
   a {
-    color:$secondaryColor;
+    background-color: $secondaryColor;
+    color: #fff;
     padding: 1rem 1.5rem;
-    border: 1px solid $secondaryColor;
+    border: 2px solid $secondaryColor;
     border-radius: 0.65rem;
     &:hover {
-      color: #fff;
-      border-color: #222;
-      background-color: #222;
+      color: $secondaryColor;
+      border-color: $secondaryColor;
+      background-color: #fff;
+      text-decoration: none;
     }
   }
 }
