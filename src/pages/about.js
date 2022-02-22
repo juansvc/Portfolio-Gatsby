@@ -32,25 +32,25 @@ const About = () => {
         <div className={aboutStyles.tools}>
 
           <ul>
-            <li>ReactJS / +5 </li>
-            <li>JavaScript / +5 </li>
-            <li>TypeScript / +5 </li>
-            <li>Css / +5 </li>
-            <li>Html / +5 </li>
+            <li>ReactJS / +6 </li>
+            <li>JavaScript / +6 </li>
+            <li>TypeScript / +6 </li>
+            <li>Css / +6 </li>
+            <li>Html / +6 </li>
           </ul>
           <ul>
-            <li>Sass / +5 </li>
-            <li>Less / ~5 </li>
-            <li>Material UI / +5 </li>
-            <li>Tailwind CSS / +4 </li>
-            <li>React Native / +4 </li>
+            <li>Sass / +6 </li>
+            <li>Less / ~6 </li>
+            <li>Material UI / +6 </li>
+            <li>Tailwind CSS / +5 </li>
+            <li>React Native / +5 </li>
           </ul>
           <ul>
-            <li>Storybook / +4 </li>
-            <li>Jest / ~4 </li>
-            <li>React Testing Library / +4 </li>
-            <li>GraphQL / +3 </li>
-            <li>Webpack / +5 </li>
+            <li>Storybook / +5 </li>
+            <li>Jest / ~5 </li>
+            <li>React Testing Library / +5 </li>
+            <li>GraphQL / +4 </li>
+            <li>Webpack / +6 </li>
           </ul>
           <ul>
             <li>Adobe XD / Figma </li>
