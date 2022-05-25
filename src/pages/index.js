@@ -11,6 +11,8 @@ const Index = () => {
       <h3 className={indexStyles.description}>I specialise in creating interactive experiences and functional interfaces using Typescript / Javascript, React, UI Libraries / Frameworks.</h3>
       <h3 className={indexStyles.titleClients}>Last Clients</h3>
       <h3 className={indexStyles.description}>
+        <a href="https://sephora.com" target="_blank" rel="noreferrer">Sephora</a>,{' '}
+        <a href="https://stateside.com" target="_blank" rel="noreferrer">Stateside</a>,{' '}
         <a href="https://crehana.com" target="_blank" rel="noreferrer">Crehana</a>,{' '}
         <a href="https://alation.com" target="_blank" rel="noreferrer">Alation</a>,{' '}
         <a href="https://bairesdev.com" target="_blank" rel="noreferrer">BairesDev</a>,{' '}
